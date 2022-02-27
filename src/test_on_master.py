@@ -1,7 +1,6 @@
 #!/usr/bin/env python
-#
-# ladida
-#
+
+"""ladida"""
 
 import time
 

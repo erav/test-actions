@@ -1,5 +1,7 @@
 name: GitHub Actions Demo
-on: [issue_comment]
+on:
+  issue_comment:
+    types: [commented]
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest

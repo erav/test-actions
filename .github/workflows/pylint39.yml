@@ -1,4 +1,4 @@
-name: Pylint
+name: Pylint 3.9
 
 on: 
   issue_comment:
